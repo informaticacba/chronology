@@ -1,3 +1,4 @@
+import openai
 from chronological import read_prompt, cleaned_completion, main
 
 # basic example -- playground reconstruction
